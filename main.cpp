@@ -7,11 +7,11 @@ void main() {
 	b = 9 - 9;
 	c = 9 * 9;
 	d = 9 / 9;
-	e = 9 % 9;
+	//e = 9 % 9;
 
-	std::cout << "‘«‚µŽZ" << a << std::endl;
-	std::cout << "ˆø‚«ŽZ" << b << std::endl;
-	std::cout << "Š|‚¯ŽZ" << c << std::endl;
-	std::cout << "Š„‚èŽZ" << d << std::endl;
-	std::cout << "—]‚è" << e << std::endl;
+	std::cout << "è¶³ã—ç®—" << a << std::endl;
+	std::cout << "å¼•ãç®—" << b << std::endl;
+	std::cout << "æŽ›ã‘ç®—" << c << std::endl;
+	std::cout << "å‰²ã‚Šç®—" << d << std::endl;
+	//std::cout << "ä½™ã‚Š" << e << std::endl;
 }
