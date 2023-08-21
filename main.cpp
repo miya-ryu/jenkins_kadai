@@ -8,6 +8,7 @@ void main() {
 	c = 9 * 9;
 	d = 9 / 9;
 	//e = 9 % 9;
+	//aiueo
 
 	std::cout << "足し算" << a << std::endl;
 	std::cout << "引き算" << b << std::endl;
